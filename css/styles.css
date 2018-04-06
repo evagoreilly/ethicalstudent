@@ -1,13 +1,23 @@
  /* This is a custom CSS stylesheet. */
 
-/* Navbar Styling */
+/* Navbar Styling
 .navbar @media screen and (min-width: 800px){
   padding-top: 20px !important;
   padding-bottom: 20px !important;
 }
-
+*/
+/* .featurette-heading {
+   position: relative: 1px;
+}
 .row-featurette {
   text-align: center;
 }
 
+}
+.text-muted {
+        font-size: xx-large !important;
+}*/
+/*.container-marketing {
+    position: relative;
+    below: 20px;
 }
