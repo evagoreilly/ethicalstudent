@@ -8,16 +8,13 @@
 */
 /* .featurette-heading {
    position: relative: 1px;
-}
+}*//*
 .row-featurette {
+  text-align: center;*/
+}
+#predicament {
+  text-align: left !important;
+}
+.featurette-heading {
   text-align: center;
-}
-
-}
-.text-muted {
-        font-size: xx-large !important;
-}*/
-/*.container-marketing {
-    position: relative;
-    below: 20px;
 }
