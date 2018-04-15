@@ -6,9 +6,8 @@
   padding-bottom: 20px !important;
 }
 */
-/* .featurette-heading {
-   position: relative: 1px;
-}*//*
+
+/*
 .row-featurette {
   text-align: center;*/
 }
@@ -17,4 +16,16 @@
 }
 .featurette-heading {
   text-align: center;
+
+}
+.lead {
+ text-align: justify;
+}
+
+.featurette-subheading {
+    text-align: center !important;
+}
+.container-marketing @media only screen and (min-width: 760px) {
+  padding-right: 150px;
+  padding-left: 150px;
 }
