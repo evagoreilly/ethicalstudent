@@ -23,16 +23,19 @@
 .lead {
  text-align: justify;
 }
-.featurette-divider {
+/*.featurette-divider {
     padding-bottom: 500px;
 }
 }
 
-}
+}/*.carousel {
+  width:640px;
+  height:360px;
+  /*
 .carousel @media only screen and (min-width: 760px{
-  width: 1395px;
+  width: 100%;
   height: auto;
-  margin: 0 auto;
+  margin: 0 auto;*/
 }
 .navbar.transparent.navbar-inverse .navbar-inner {
     border-width: 0px;
